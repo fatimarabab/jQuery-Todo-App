@@ -1,4 +1,4 @@
-# jQuery-Todo-App
+# Todo Lists jQuery App
 - Responsive Todo Application using HTML, CSS, JavaScript, jQuery
 - ToDo application: 
   - Add new tasks
